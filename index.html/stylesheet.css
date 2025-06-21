@@ -1,0 +1,26 @@
+h1 {
+    color:blueviolet;
+    font-size: 30px;
+
+}
+p{
+    color:aqua;
+
+}
+
+div{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border: 2px;
+    border-color:black;
+}
+button{
+    background-color:brown;
+    color:brown;
+}
+    button:hover{
+    background-color:blue;
+
+    }
+}
